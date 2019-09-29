@@ -1,0 +1,155 @@
+{
+  "uuid": "d34b35adc2b3f95fa6c045f601580729",
+  "name": "深蓝月相表盘",
+  "icon": "",
+  "version": "1.0.0",
+  "watchface": "true",
+  "device_type": "120",
+  "resources": [
+      {
+        "type": "bmp",
+        "name": "CENTER",
+        "file": "center.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "BG",
+        "file": "bg.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "MOON_1L",
+        "file": "1L.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "MOON_1R",
+        "file": "1r.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "MOON_2R",
+        "file": "2r.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "MOON_3R",
+        "file": "3r.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "MOON_4R",
+        "file": "4r.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "MOON_5R",
+        "file": "5r.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "MOON_6R",
+        "file": "6r.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "MOON_9L",
+        "file": "9L.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "MOON_10L",
+        "file": "10L.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "MOON_11L",
+        "file": "11L.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "MOON_12L",
+        "file": "12L.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "MOON_13L",
+        "file": "13L.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "MOON_14L",
+        "file": "14L.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "MOON_15L",
+        "file": "15L.bmp"
+      },
+	  {
+        "type": "bmp",
+        "name": "MOON_15R",
+        "file": "15r.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "MOON_17R",
+        "file": "17r.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "MOON_18R",
+        "file": "18r.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "MOON_19R",
+        "file": "19r.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "MOON_20R",
+        "file": "20r.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "MOON_21R",
+        "file": "21r.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "MOON_24L",
+        "file": "24L.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "MOON_25L",
+        "file": "25L.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "MOON_26L",
+        "file": "26L.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "MOON_27L",
+        "file": "27L.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "MOON_28L",
+        "file": "28L.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "MOON_29L",
+        "file": "29L.bmp"
+      },
+      {
+        "type": "bmp",
+        "name": "MOON_30L",
+        "file": "30L.bmp"
+      }
+      ]
+      }
